@@ -1,0 +1,19 @@
+{
+  "name": "receta",
+  "homepage": "https://github.com/AnithaPal/receta",
+  "authors": [
+    "AnithaPal <anitha.aravindvel@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
