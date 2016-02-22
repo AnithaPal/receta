@@ -25,6 +25,7 @@ gem 'sass', '3.2.19'
 gem 'figaro', '1.0'
 
 gem 'bower-rails'
+gem 'angular-rails-templates'
 
 group :test, :development do
  gem "rspec-rails", "~> 2.0"
